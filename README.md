@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arth-BCA
+- 👋 Hi, I’m @Arth-Ultimate
 - 👀 I’m interested in coding and reading novels
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
